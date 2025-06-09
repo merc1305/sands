@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sands/static/css/main.c244a8b0.css",
-    "main.js": "/sands/static/js/main.2beaf12b.js",
+    "main.js": "/sands/static/js/main.d8b7b4e6.js",
     "static/media/svg": "/sands/static/media/2d82b92e720462f8dd3b.2d82b92e720462f8dd3b.svg",
     "index.html": "/sands/index.html",
     "main.c244a8b0.css.map": "/sands/static/css/main.c244a8b0.css.map",
-    "main.2beaf12b.js.map": "/sands/static/js/main.2beaf12b.js.map"
+    "main.d8b7b4e6.js.map": "/sands/static/js/main.d8b7b4e6.js.map"
   },
   "entrypoints": [
     "static/css/main.c244a8b0.css",
-    "static/js/main.2beaf12b.js"
+    "static/js/main.d8b7b4e6.js"
   ]
 }
